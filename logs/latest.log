@@ -1,5 +1,151 @@
-[00:16:34] [Server thread/INFO]: Capt4inNem0[/25.10.124.161:48566] logged in with entity id 477795 at ([world] -578.6687567544868, 26.627976091496762, -514.6999999880792)
-[00:16:34] [Server thread/WARN]: [Essentials] Task #6150 for Essentials vTeamCity generated an exception
+[13:40:36] [Server thread/INFO]: Starting minecraft server version 1.8
+[13:40:36] [Server thread/INFO]: Loading properties
+[13:40:36] [Server thread/INFO]: Default game type: SURVIVAL
+[13:40:36] [Server thread/INFO]: Generating keypair
+[13:40:36] [Server thread/INFO]: Starting Minecraft server on 25.10.124.161:25565
+[13:40:36] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[13:40:36] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[13:40:37] [Server thread/ERROR]: Ambiguous plugin name `EssentialsGeoIP' for files `plugins/original-EssentialsGeoIP-2.x-SNAPSHOT.jar' and `plugins/EssentialsGeoIP-2.x-SNAPSHOT.jar' in `plugins'
+[13:40:37] [Server thread/ERROR]: Ambiguous plugin name `EssentialsXMPP' for files `plugins/EssentialsXMPP-2.x-SNAPSHOT.jar' and `plugins/original-EssentialsXMPP-2.x-SNAPSHOT.jar' in `plugins'
+[13:40:37] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
+[13:40:37] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[13:40:37] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[13:40:37] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[13:40:37] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
+[13:40:37] [Server thread/INFO]: [LocationTeleport] Loading LocationTeleport v3.0.2
+[13:40:37] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.3
+[13:40:37] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[13:40:37] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
+[13:40:37] [Server thread/INFO]: [Towny] Loading Towny v0.93.1.0a (for MC 1.8.9)
+[13:40:37] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.0
+[13:40:37] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[13:40:37] [Server thread/INFO]: [Fe] Loading Fe v0.9
+[13:40:37] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[13:40:37] [Server thread/INFO]: [TownyChat] Loading TownyChat v0.54
+[13:40:37] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vTeamCity
+[13:40:37] [Server thread/INFO]: [TownyNameUpdater] Loading TownyNameUpdater v2.5
+[13:40:37] [Server thread/INFO]: [Fe] Enabling Fe v0.9
+[13:40:37] [Server thread/INFO]: [Fe] All accounts with the default balance have been removed.
+[13:40:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:40:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:40:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:40:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:40:37] [Server thread/INFO]: Preparing level "world"
+[13:40:37] [Server thread/INFO]: Preparing start region for level 0 (Seed: 906498871161195631)
+[13:40:38] [Server thread/INFO]: Preparing spawn area: 45%
+[13:40:39] [Server thread/INFO]: Preparing start region for level 1 (Seed: 906498871161195631)
+[13:40:40] [Server thread/INFO]: Preparing start region for level 2 (Seed: 906498871161195631)
+[13:40:40] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
+[13:40:40] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6606013473932763790)
+[13:40:41] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
+[13:40:41] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[13:40:42] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:40:42] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[13:40:42] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[13:40:42] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[13:40:42] [Server thread/INFO]: git-Bukkit-33d5de3 (MC: 1.8)
+[13:40:42] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[13:40:42] [Server thread/INFO]: Using locale es_AR
+[13:40:42] [Server thread/INFO]: Using locale es_AR
+[13:40:42] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[13:40:42] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[13:40:42] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[13:40:42] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
+[13:40:42] [Server thread/INFO]: Descargando base de datos de GeoIP... Puede tardar unos minutos (países: 0.6 MB, ciudades: 20 MB)
+[13:40:47] [Server thread/ERROR]: No se ha podido abrir la conexion.
+java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1915) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.downloadDatabase(EssentialsGeoIPPlayerListener.java:163) [original-EssentialsGeoIP-2.x-SNAPSHOT.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:122) [original-EssentialsGeoIP-2.x-SNAPSHOT.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:41) [original-EssentialsGeoIP-2.x-SNAPSHOT.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:34) [original-EssentialsGeoIP-2.x-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:341) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:313) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.q(MinecraftServer.java:394) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.k(MinecraftServer.java:362) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.a(MinecraftServer.java:317) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:190) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:484) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.base/java.lang.Thread.run(Thread.java:834) [?:?]
+[13:40:47] [Server thread/ERROR]: Error occurred while enabling EssentialsGeoIP vTeamCity (Is it up to date?)
+java.lang.NoClassDefFoundError: com/maxmind/geoip/LookupService
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:132) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:41) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:34) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:327) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:341) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:313) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.q(MinecraftServer.java:394) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.k(MinecraftServer.java:362) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.a(MinecraftServer.java:317) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:190) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:484) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.base/java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.ClassNotFoundException: com.maxmind.geoip.LookupService
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:77) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:62) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	... 14 more
+[13:40:47] [Server thread/INFO]: [LocationTeleport] Enabling LocationTeleport v3.0.2
+[13:40:47] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[m by Jonathan Gurebo has been enabled.[m
+[13:40:47] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.3
+[13:40:47] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[13:40:47] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[13:40:48] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[13:40:48] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[13:40:48] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
+[13:40:48] [Server thread/INFO]: [Towny] Enabling Towny v0.93.1.0a (for MC 1.8.9)
+[13:40:48] [Server thread/INFO]: ====================      Towny      ========================
+[13:40:48] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
+[13:40:48] [Server thread/WARN]: [Towny] Error: No compatible Economy plugins found. Install Vault.jar with any of the supported eco systems.
+[13:40:48] [Server thread/WARN]: [Towny] Error: If you do not want an economy to be used, set using_economy: false in your Towny config.yml.
+[13:40:48] [Server thread/INFO]: [Towny] Using: PermissionsEX v1.23.3
+[13:40:48] [Server thread/INFO]: [Towny] Time until a New Day: 22 hours, 19 minutes, 12 seconds
+[13:40:48] [Server thread/INFO]: =============================================================
+[13:40:48] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Enabled
+[13:40:48] [Server thread/INFO]: =============================================================
+[13:40:48] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.0
+[13:40:48] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[13:40:48] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[13:40:48] [Server thread/INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[13:40:48] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[13:40:48] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby'
+[13:40:48] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:40:49] [Server thread/INFO]: [TownyChat] Enabling TownyChat v0.54
+[13:40:49] [Server thread/INFO]: [TownyChat] Default Channel set to general
+[13:40:49] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vTeamCity
+[13:40:49] [Server thread/WARN]: config broken for xmpp
+[13:40:49] [Server thread/INFO]: [TownyNameUpdater] Enabling TownyNameUpdater v2.5
+[13:40:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:40:49] [Server thread/INFO]: Done (11,966s)! For help, type "help" or "?"
+[13:40:49] [Server thread/INFO]: [TownyChat] -******* TownyChat enabled *******-
+[15:04:07] [Server thread/INFO]: Piterr[/25.2.55.34:54550] logged in with entity id 812 at ([world] 1695.710076072058, 76.0, -762.1379263964982)
+[15:04:07] [Server thread/WARN]: [Essentials] Task #37 for Essentials vTeamCity generated an exception
 java.lang.NullPointerException
 	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
@@ -11,200 +157,91 @@ java.lang.NullPointerException
 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.base/java.lang.Thread.run(Thread.java:834) [?:?]
-[00:17:25] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
-[00:20:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5949ms behind, skipping 118 tick(s)
-[00:21:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8580ms behind, skipping 171 tick(s)
-[00:23:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2043ms behind, skipping 40 tick(s)
-[00:24:13] [Server thread/INFO]: Capt4inNem0 issued server command: /warp mapamundi
-[00:24:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6863ms behind, skipping 137 tick(s)
-[00:24:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2090ms behind, skipping 41 tick(s)
-[00:26:07] [Server thread/INFO]: pPufliyx[/25.69.46.26:50338] logged in with entity id 582422 at ([lobby] -171.71420306670603, 98.5, -192.4919550667271)
-[00:26:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2634ms behind, skipping 52 tick(s)
-[00:26:08] [Server thread/WARN]: [Essentials] Task #6157 for Essentials vTeamCity generated an exception
-java.lang.NullPointerException
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:181) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
-	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:349) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:668) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+[15:05:07] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:05:19] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:05:23] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:05:28] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:05:33] [Server thread/INFO]: Piterr issued server command: //undo
+[15:05:37] [Server thread/INFO]: Piterr issued server command: //undo
+[15:05:41] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:05:42] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:05:47] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:14:17] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:14:21] [Server thread/INFO]: Piterr issued server command: //Set 3
+[15:14:37] [Server thread/INFO]: Piterr issued server command: //Set 1
+[15:14:41] [Server thread/INFO]: Piterr issued server command: //Set 4
+[15:15:19] [Server thread/INFO]: Piterr issued server command: //undo
+[15:15:20] [Server thread/INFO]: Piterr issued server command: //undo
+[15:15:22] [Server thread/INFO]: Piterr issued server command: //undo
+[15:15:23] [Server thread/INFO]: Piterr issued server command: //undo
+[15:15:24] [Server thread/INFO]: Piterr issued server command: //undo
+[15:16:15] [Server thread/INFO]: Piterr issued server command: /time set day sunny
+[15:16:18] [Server thread/INFO]: Piterr issued server command: /time set day
+[15:16:24] [Server thread/INFO]: Piterr issued server command: /time set day Piterr
+[15:16:42] [Server thread/INFO]: Piterr issued server command: /plugins
+[15:16:59] [Server thread/INFO]: Piterr issued server command: /hologram
+[15:17:10] [Server thread/INFO]: Piterr issued server command: /holograms
+[15:17:13] [Server thread/INFO]: Piterr issued server command: /holograms help
+[15:17:13] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'holograms' in plugin HolographicDisplays v2.4.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:625) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:656) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.base/java.lang.Thread.run(Thread.java:834) [?:?]
-[00:26:08] [pool-3-thread-88/INFO]: [Essentials] Lag Notice - Slow Permissions System (PermissionsEx) Response - Request took over 190,707ms!
-[00:27:39] [Server thread/INFO]: Capt4inNem0 issued server command: /warp lobby
-[00:27:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2183ms behind, skipping 43 tick(s)
-[00:28:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2176ms behind, skipping 43 tick(s)
-[00:29:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2367ms behind, skipping 47 tick(s)
-[00:30:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2298ms behind, skipping 45 tick(s)
-[00:31:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2658ms behind, skipping 53 tick(s)
-[00:35:00] [Server thread/INFO]: Capt4inNem0 issued server command: /tp Capt4inNem0 pPufliyx
-[00:35:18] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m te gusta?[m
-[00:35:31] [Server thread/INFO]: Capt4inNem0 issued server command: /toggledownfall
-[00:35:32] [Server thread/INFO]: [Capt4inNem0: Toggled downfall]
-[00:35:38] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m sese[m
-[00:36:47] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m euu[m
-[00:36:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6030ms behind, skipping 120 tick(s)
-[00:37:14] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m pone bien el spawn aqui[m
-[00:37:21] [Server thread/INFO]: Capt4inNem0 issued server command: //copy
-[00:37:32] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate
-[00:37:37] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
-[00:37:41] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
-[00:37:48] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
-[00:37:57] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
-[00:38:01] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
-[00:38:04] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
-[00:38:19] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m gracias po hacer eso[m
-[00:38:31] [Server thread/INFO]: Capt4inNem0 issued server command: /setwarp lobby
-[00:38:37] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m de nada[m
-[00:39:52] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m che te anda trabado?[m
-[00:40:00] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m no[m
-[00:40:37] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m avisame[m
-[00:40:43] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m de que[m
-[00:40:45] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m cuando termines esto[m
-[00:40:53] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m y lo copio[m
-[00:40:55] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m ya lo estoy por terminar[m
-[00:41:16] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m listo[m
-[00:41:37] [Server thread/INFO]: Capt4inNem0 issued server command: //copy
-[00:41:47] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
-[00:41:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2816ms behind, skipping 56 tick(s)
-[00:41:57] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
-[00:42:15] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
-[00:42:19] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
-[00:42:21] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
-[00:42:23] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
-[00:42:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10259ms behind, skipping 205 tick(s)
-[00:42:33] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
-[00:42:33] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
-[00:42:36] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m gg[m
-[00:43:01] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m quedo zarpado[m
-[00:43:20] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m queres que haga un bosque en el fondo del lobby?[m
-[00:43:25] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m asi no queda vacio[m
-[00:43:33] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m o le vas a poner otra cosa[m
-[00:43:34] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m eso iva hacer ayudame[m
-[00:43:44] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m escucha[m
-[00:44:00] [Server thread/INFO]: Capt4inNem0 issued server command: //forest
-[00:44:01] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m voy hacer un lago que cruze[m
-[00:44:04] [Server thread/INFO]: Capt4inNem0 issued server command: //forest
-[00:44:05] [Server thread/INFO]: Capt4inNem0 issued server command: //forest
-[00:44:07] [Server thread/INFO]: Capt4inNem0 issued server command: //forest
-[00:44:08] [Server thread/INFO]: Capt4inNem0 issued server command: //forest
-[00:44:44] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
-[00:44:56] [Server thread/INFO]: Capt4inNem0 issued server command: //set 3
-[00:45:05] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m andas bien para los comandos[m
-[00:45:24] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m fui admin de 2 servers[m
-[00:45:29] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m ok[m
-[00:45:42] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m que necesitas[m
-[00:45:56] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m y yo fui diseñador de dos server[m
-[00:46:17] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m por eso yo se comandos y vos diseño[m
-[00:46:26] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m que hago[m
-[00:46:27] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m exacto[m
-[00:46:30] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m xd[m
-[00:46:39] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m meto agua?[m
-[00:46:45] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m se[m
-[00:46:52] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m pero hace un lago[m
-[00:46:53] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m en todo el fondo?[m
-[00:48:34] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:48:48] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m emm[m
-[00:48:50] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:49:00] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:49:09] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:49:26] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:49:34] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:49:40] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:49:43] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:49:51] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:49:58] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:50:03] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:50:06] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:50:34] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:50:44] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:50:50] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:51:11] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:51:19] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:51:24] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:51:28] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:51:37] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:51:44] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m aso[m
-[00:51:49] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m asi?[m
-[00:51:52] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m se[m
-[00:52:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2445ms behind, skipping 48 tick(s)
-[00:52:06] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m eu[m
-[00:52:11] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m queu[m
-[00:52:31] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m entre los puentes quiero hacer estatuas gigantes de nosotros[m
-[00:52:36] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m podes poner agua que llegue hasta aca[m
-[00:52:39] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m ok[m
-[00:52:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2328ms behind, skipping 46 tick(s)
-[00:53:00] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:53:29] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:53:55] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:54:07] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:54:14] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:54:25] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:54:30] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:54:34] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:54:48] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:54:55] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:55:14] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:55:20] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:55:35] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:55:43] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:56:02] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:56:07] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:56:26] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:56:34] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:56:52] [Server thread/INFO]: Capt4inNem0 issued server command: //replace 0 8
-[00:57:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2779ms behind, skipping 55 tick(s)
-[00:57:12] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m tal vez falten unos huecos[m
-[00:57:16] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m llenalos a mano[m
-[00:57:18] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m si[m
-[00:57:20] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m me voy[m
-[00:57:25] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m a donde[m
-[00:57:28] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m te lo dejo prendido[m
-[00:57:36] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m y que hago[m
-[00:57:41] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m de la giuli, si no vuelvo tarde me conecto[m
-[00:57:49] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m y que hago[m
-[00:58:16] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m y que hago[m
-[00:58:32] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m armate las puertas de los portales[m
-[00:58:44] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m despues las corto y las pego[m
-[00:58:48] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m en cada punta de los puentes[m
-[00:58:52] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m ok[m
-[00:59:00] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m tenes premium?[m
-[00:59:08] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m que?[m
-[00:59:15] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m si tenes minecraft premium[m
-[00:59:19] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m no[m
-[00:59:32] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m te voy a regalar una cuenta premium[m
-[00:59:39] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m haceme acordar mañana[m
-[00:59:43] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m ok[m
-[00:59:48] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m dale gracias[m
-[00:59:55] [Netty Server IO #6/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[[0;36;22mPrimus[0;37;1m] [0;36;1m[God] Hermit [0;31;22mCapt4inNem0[m[0;37;1m:[0;37;1m nos vemos[m
-[01:00:00] [Server thread/INFO]: Capt4inNem0 lost connection: Disconnected
-[01:00:00] [Netty Server IO #0/INFO]: [0;37;1m[g] [0;37;1m[[0;37;1mlobby[0;37;1m] [0;37;1m[God] [0;31;22mpPufliyx[m[0;37;1m:[0;37;1m nos vemops[m
-[01:00:02] [Server thread/INFO]: Capt4inNem0 left the game.
-[01:00:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2880ms behind, skipping 57 tick(s)
-[01:00:03] [Server thread/WARN]: [Essentials] Task #6396 for Essentials vTeamCity generated an exception
-java.lang.NullPointerException
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
-	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
-	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:349) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:668) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+Caused by: java.lang.NoSuchMethodError: 'org.bukkit.entity.Player$Spigot org.bukkit.entity.Player.spigot()'
+	at com.gmail.filoghost.holographicdisplays.commands.main.subs.HelpCommand.execute(HelpCommand.java:70) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.commands.main.HologramsCommandHandler.onCommand(HologramsCommandHandler.java:115) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	... 14 more
+[15:17:34] [Server thread/INFO]: Piterr issued server command: /holograms
+[15:17:37] [Server thread/INFO]: Piterr issued server command: /hologram
+[15:17:41] [Server thread/INFO]: Piterr issued server command: /hologram help
+[15:17:41] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'hologram' in plugin HolographicDisplays v2.4.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:625) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:656) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.base/java.lang.Thread.run(Thread.java:834) [?:?]
-[01:00:27] [Server thread/INFO]: CONSOLE issued server command: /kill pPufliyx
-[01:00:28] [Server thread/INFO]: pPufliyx died
-[01:00:28] [Server thread/INFO]: [0;37;22mHas matado a[0;31;1m [0;31;22mpPufliyx[m[0;37;22m.[m
-[01:00:34] [Server thread/INFO]: [Essentials] Lag Notice - Slow Permissions System (PermissionsEx) Response - Request took over 1.208,36ms!
-[01:00:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3833ms behind, skipping 76 tick(s)
-[01:00:38] [Server thread/INFO]: [Server] comiste puto
-[01:01:07] [Server thread/INFO]: pPufliyx issued server command: /warp lobby
-[01:10:38] [Server thread/INFO]: pPufliyx lost connection: Internal Exception: java.io.IOException: Conexión reinicializada por la máquina remota
-[01:10:38] [Server thread/INFO]: pPufliyx left the game.
-[01:10:38] [Server thread/WARN]: [Essentials] Task #6448 for Essentials vTeamCity generated an exception
+Caused by: java.lang.NoSuchMethodError: 'org.bukkit.entity.Player$Spigot org.bukkit.entity.Player.spigot()'
+	at com.gmail.filoghost.holographicdisplays.commands.main.subs.HelpCommand.execute(HelpCommand.java:70) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.commands.main.HologramsCommandHandler.onCommand(HologramsCommandHandler.java:115) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	... 14 more
+[15:17:59] [Server thread/INFO]: Piterr issued server command: /holographicdisplays: dsa
+[15:18:02] [Server thread/INFO]: Piterr issued server command: /holographicdisplays:
+[15:18:04] [Server thread/INFO]: Piterr issued server command: /holographicdisplays:h
+[15:18:07] [Server thread/INFO]: Piterr issued server command: /holographicdisplays:holo
+[15:18:13] [Server thread/INFO]: Piterr issued server command: /holographicdisplays:holo Tienda
+[15:19:44] [Server thread/INFO]: Piterr issued server command: /warp
+[15:19:53] [Server thread/INFO]: Piterr issued server command: /warp mapamundi
+[15:25:07] [Server thread/INFO]: Piterr issued server command: /warp tpr
+[15:25:11] [Server thread/INFO]: Piterr issued server command: /warp topr
+[15:25:21] [Server thread/INFO]: Piterr issued server command: /warp lobby
+[15:28:06] [Server thread/INFO]: Piterr lost connection: Internal Exception: java.io.IOException: Conexión reinicializada por la máquina remota
+[15:28:06] [Server thread/INFO]: Piterr left the game.
+[15:28:06] [Server thread/WARN]: [Essentials] Task #375 for Essentials vTeamCity generated an exception
 java.lang.NullPointerException
 	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
@@ -216,36 +253,36 @@ java.lang.NullPointerException
 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.base/java.lang.Thread.run(Thread.java:834) [?:?]
-[10:03:41] [Server thread/INFO]: Stopping the server
-[10:03:41] [Server thread/INFO]: Stopping server
-[10:03:41] [Server thread/INFO]: [TownyNameUpdater] Disabling TownyNameUpdater v2.5
-[10:03:41] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
-[10:03:41] [Server thread/INFO]: [TownyChat] Disabling TownyChat v0.54
-[10:03:41] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
-[10:03:41] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[10:03:41] [Server thread/INFO]: [Fe] Disabling Fe v0.9
-[10:03:41] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
-[10:03:41] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.0
-[10:03:41] [Server thread/INFO]: [Towny] Disabling Towny v0.93.1.0a (for MC 1.8.9)
-[10:03:41] [Server thread/INFO]: ==============================================================
-[10:03:41] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Disabled
-[10:03:41] [Server thread/INFO]: =============================================================
-[10:03:42] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
-[10:03:42] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.3
-[10:03:42] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[10:03:42] [Server thread/INFO]: [LocationTeleport] Disabling LocationTeleport v3.0.2
-[10:03:42] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[10:03:42] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[10:03:42] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[0;35;22m is disabled[m
-[10:03:42] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
-[10:03:42] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
-[10:03:42] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[10:03:42] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
-[10:03:42] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
-[10:03:42] [Server thread/INFO]: [MultiWorld] Disabled.
-[10:03:42] [Server thread/INFO]: Saving players
-[10:03:42] [Server thread/INFO]: Saving worlds
-[10:03:42] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[10:03:42] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[10:03:42] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[10:03:42] [Server thread/INFO]: Saving chunks for level 'lobby'/Overworld
+[15:57:04] [Server thread/INFO]: Stopping the server
+[15:57:04] [Server thread/INFO]: Stopping server
+[15:57:04] [Server thread/INFO]: [TownyNameUpdater] Disabling TownyNameUpdater v2.5
+[15:57:04] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
+[15:57:04] [Server thread/INFO]: [TownyChat] Disabling TownyChat v0.54
+[15:57:04] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[15:57:04] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[15:57:04] [Server thread/INFO]: [Fe] Disabling Fe v0.9
+[15:57:04] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[15:57:04] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.0
+[15:57:04] [Server thread/INFO]: [Towny] Disabling Towny v0.93.1.0a (for MC 1.8.9)
+[15:57:04] [Server thread/INFO]: ==============================================================
+[15:57:04] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Disabled
+[15:57:04] [Server thread/INFO]: =============================================================
+[15:57:04] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[15:57:04] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.3
+[15:57:04] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:57:04] [Server thread/INFO]: [LocationTeleport] Disabling LocationTeleport v3.0.2
+[15:57:04] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:57:04] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:57:04] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[0;35;22m is disabled[m
+[15:57:04] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[15:57:04] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[15:57:04] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[15:57:04] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[15:57:04] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
+[15:57:04] [Server thread/INFO]: [MultiWorld] Disabled.
+[15:57:04] [Server thread/INFO]: Saving players
+[15:57:04] [Server thread/INFO]: Saving worlds
+[15:57:04] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:57:04] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[15:57:04] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[15:57:04] [Server thread/INFO]: Saving chunks for level 'lobby'/Overworld

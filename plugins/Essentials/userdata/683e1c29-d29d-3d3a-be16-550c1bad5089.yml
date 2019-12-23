@@ -1,23 +1,23 @@
 lastAccountName: Piterr
 timestamps:
-  login: 1577039499493
-  logout: 1577043037876
-  lastteleport: 1577041470081
+  login: 1577113447543
+  logout: 1577114884496
+  lastteleport: 1577114721043
 ipAddress: 25.2.55.34
 logoutlocation:
-  world: world
-  x: 1695.710076072058
-  y: 76.0
-  z: -762.1379263964982
-  yaw: 98.951904
-  pitch: 25.949987
+  world: lobby
+  x: -127.4590369602911
+  y: 84.0
+  z: -172.9405018414139
+  yaw: 320.32132
+  pitch: 40.499947
 lastlocation:
   world: world
-  x: 1701.9701223557845
-  y: 78.85231825995218
-  z: -779.8797715891782
-  yaw: 155.05835
-  pitch: 26.885426
+  x: 1767.3759849450182
+  y: 65.0
+  z: -773.5049221059307
+  yaw: -88.557945
+  pitch: 70.04999
 nickname: §0Pi§4t§0err
 homes:
   home:
