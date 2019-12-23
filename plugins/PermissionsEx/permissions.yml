@@ -1,0 +1,39 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - essentials.build
+    - modifyworld.*
+  God:
+    inheritance:
+    - default
+    options:
+      weight: '10'
+      prefix: '[God]'
+    permissions:
+    - essentials.build
+    - essentials.*
+schema-version: 1
+users:
+  group:
+    permissions:
+    - God
+  5515458b-9014-3145-8ca2-ec2f50a647d1:
+    group:
+    - God
+    options:
+      name: Capt4inNem0
+  ppuflyx:
+    group:
+    - God
+  693feef4-32c1-316b-bde0-302fe57e60d3:
+    group:
+    - God
+    options:
+      name: pPufliyx
+  683e1c29-d29d-3d3a-be16-550c1bad5089:
+    group:
+    - God
+    options:
+      name: Piterr

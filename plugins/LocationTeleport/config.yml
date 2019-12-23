@@ -1,0 +1,10 @@
+updater: true
+check-updates-on-start: false
+direction:
+  remember-directions: true
+messages:
+  teleport-messages:
+    op-message: true
+    broadcast-teleport-message: false
+  permission-messages:
+    no-permission-message: false

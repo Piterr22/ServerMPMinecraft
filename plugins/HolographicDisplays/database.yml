@@ -1,0 +1,12 @@
+towny:
+  location: world, -740.971, 8.000, -608.455
+  lines:
+  - Towny tutorial
+mercado:
+  location: world, -745.476, 8.200, -613.376
+  lines:
+  - Mercado tutorial
+spawnmapa:
+  location: world, -579.617, 24.407, -499.147
+  lines:
+  - Spawn
