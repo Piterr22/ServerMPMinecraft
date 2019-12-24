@@ -10,3 +10,7 @@ spawnmapa:
   location: world, -579.617, 24.407, -499.147
   lines:
   - Spawn
+townyspawnwelcome:
+  location: world, -576.553, 150.200, -507.527
+  lines:
+  - '&cBienvenido! a'

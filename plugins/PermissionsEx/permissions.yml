@@ -12,6 +12,7 @@ groups:
       weight: '10'
       prefix: '[God]'
     permissions:
+    - holograms.*
     - essentials.build
     - essentials.*
 schema-version: 1
