@@ -1,10 +1,10 @@
-[23:58:24] [Server thread/INFO]: Starting minecraft server version 1.8
-[23:58:24] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[23:58:24] [Server thread/INFO]: Loading properties
-[23:58:24] [Server thread/INFO]: Default game type: SURVIVAL
-[23:58:24] [Server thread/INFO]: Generating keypair
-[23:58:25] [Server thread/INFO]: Starting Minecraft server on 25.10.124.161:25565
-[23:58:25] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[23:58:25] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
-[23:58:25] [Server thread/WARN]: Perhaps a server is already running on that port?
-[23:58:25] [Server thread/INFO]: Stopping server
+[14:36:27] [Server thread/INFO]: Starting minecraft server version 1.8
+[14:36:27] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[14:36:27] [Server thread/INFO]: Loading properties
+[14:36:27] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:27] [Server thread/INFO]: Generating keypair
+[14:36:28] [Server thread/INFO]: Starting Minecraft server on 172.168.0.1:25565
+[14:36:28] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[14:36:28] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[14:36:28] [Server thread/WARN]: Perhaps a server is already running on that port?
+[14:36:28] [Server thread/INFO]: Stopping server
