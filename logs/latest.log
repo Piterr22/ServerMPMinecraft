@@ -1,61 +1,72 @@
-[14:40:52] [Server thread/INFO]: Starting minecraft server version 1.8
-[14:40:52] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[14:40:52] [Server thread/INFO]: Loading properties
-[14:40:52] [Server thread/INFO]: Default game type: SURVIVAL
-[14:40:52] [Server thread/INFO]: Generating keypair
-[14:40:53] [Server thread/INFO]: Starting Minecraft server on 192.168.0.20:25565
-[14:40:53] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
-[14:40:54] [Server thread/ERROR]: Ambiguous plugin name `EssentialsGeoIP' for files `plugins\original-EssentialsGeoIP-2.x-SNAPSHOT.jar' and `plugins\EssentialsGeoIP-2.x-SNAPSHOT.jar' in `plugins'
-[14:40:54] [Server thread/ERROR]: Ambiguous plugin name `EssentialsXMPP' for files `plugins\original-EssentialsXMPP-2.x-SNAPSHOT.jar' and `plugins\EssentialsXMPP-2.x-SNAPSHOT.jar' in `plugins'
-[14:40:55] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
-[14:40:55] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[14:40:55] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
-[14:40:55] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
-[14:40:55] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
-[14:40:55] [Server thread/INFO]: [LocationTeleport] Loading LocationTeleport v3.0.2
-[14:40:55] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
-[14:40:55] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.3
-[14:40:55] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
-[14:40:55] [Server thread/INFO]: [Towny] Loading Towny v0.93.1.0a (for MC 1.8.9)
-[14:40:55] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.0
-[14:40:55] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
-[14:40:55] [Server thread/INFO]: [Fe] Loading Fe v0.9
-[14:40:55] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
-[14:40:55] [Server thread/INFO]: [TownyChat] Loading TownyChat v0.54
-[14:40:55] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vTeamCity
-[14:40:55] [Server thread/INFO]: [TownyNameUpdater] Loading TownyNameUpdater v2.5
-[14:40:55] [Server thread/INFO]: [Fe] Enabling Fe v0.9
-[14:40:55] [Server thread/INFO]: [Fe] All accounts with the default balance have been removed.
-[14:40:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:40:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:40:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:40:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:40:55] [Server thread/INFO]: Preparing level "world"
-[14:40:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: 906498871161195631)
-[14:40:56] [Server thread/INFO]: Preparing spawn area: 42%
-[14:40:57] [Server thread/INFO]: Preparing spawn area: 66%
-[14:40:58] [Server thread/INFO]: Preparing start region for level 1 (Seed: 906498871161195631)
-[14:40:59] [Server thread/INFO]: Preparing spawn area: 76%
-[14:40:59] [Server thread/INFO]: Preparing start region for level 2 (Seed: 906498871161195631)
-[14:41:00] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
-[14:41:00] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6606013473932763790)
-[14:41:01] [Server thread/INFO]: Preparing spawn area for lobby, 73%
-[14:41:01] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
-[14:41:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[14:41:02] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[14:41:02] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
-[14:41:02] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
-[14:41:02] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[14:41:02] [Server thread/INFO]: git-Bukkit-33d5de3 (MC: 1.8)
-[14:41:02] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
-[14:41:02] [Server thread/INFO]: Using locale es_ES
-[14:41:02] [Server thread/INFO]: Using locale es_ES
-[14:41:02] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[14:41:02] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[14:41:02] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
-[14:41:02] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
-[14:41:02] [Server thread/INFO]: Descargando base de datos de GeoIP... Puede tardar unos minutos (países: 0.6 MB, ciudades: 20 MB)
-[14:41:03] [Server thread/ERROR]: No se ha podido abrir la conexion.
+[15:47:34] [Server thread/INFO]: Starting minecraft server version 1.8
+[15:47:34] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[15:47:34] [Server thread/INFO]: Loading properties
+[15:47:34] [Server thread/INFO]: Default game type: SURVIVAL
+[15:47:34] [Server thread/INFO]: Generating keypair
+[15:47:34] [Server thread/INFO]: Starting Minecraft server on 192.168.0.20:25565
+[15:47:34] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[15:47:34] [Server thread/ERROR]: Ambiguous plugin name `EssentialsGeoIP' for files `plugins\original-EssentialsGeoIP-2.x-SNAPSHOT.jar' and `plugins\EssentialsGeoIP-2.x-SNAPSHOT.jar' in `plugins'
+[15:47:34] [Server thread/ERROR]: Ambiguous plugin name `EssentialsXMPP' for files `plugins\original-EssentialsXMPP-2.x-SNAPSHOT.jar' and `plugins\EssentialsXMPP-2.x-SNAPSHOT.jar' in `plugins'
+[15:47:35] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
+[15:47:35] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[15:47:35] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[15:47:35] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[15:47:35] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
+[15:47:35] [Server thread/INFO]: [LocationTeleport] Loading LocationTeleport v3.0.2
+[15:47:35] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
+[15:47:35] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.3
+[15:47:35] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[15:47:35] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.0
+[15:47:35] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[15:47:35] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[15:47:35] [Server thread/INFO]: [Fe] Loading Fe v0.9
+[15:47:35] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[15:47:35] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vTeamCity
+[15:47:35] [Server thread/INFO]: [ChestShop] Loading ChestShop v3.8.9
+[15:47:35] [Server thread/INFO]: [Towny] Loading Towny v0.93.1.0a (for MC 1.8.9)
+[15:47:35] [Server thread/INFO]: [Jobs] Loading Jobs v2.51.1
+[15:47:35] [Server thread/INFO]: [TownyChat] Loading TownyChat v0.54
+[15:47:35] [Server thread/INFO]: [TownyNameUpdater] Loading TownyNameUpdater v2.5
+[15:47:35] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[15:47:35] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:47:35] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:47:35] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:47:35] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:47:35] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[15:47:35] [Server thread/INFO]: [Fe] Enabling Fe v0.9
+[15:47:35] [Server thread/INFO]: [Fe] Vault support enabled.
+[15:47:35] [Server thread/INFO]: [Fe] All accounts with the default balance have been removed.
+[15:47:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:47:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:47:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:47:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:47:35] [Server thread/INFO]: Preparing level "world"
+[15:47:35] [Server thread/INFO]: Preparing start region for level 0 (Seed: 906498871161195631)
+[15:47:36] [Server thread/INFO]: Preparing spawn area: 53%
+[15:47:36] [Server thread/INFO]: Preparing start region for level 1 (Seed: 906498871161195631)
+[15:47:37] [Server thread/INFO]: Preparing spawn area: 80%
+[15:47:38] [Server thread/INFO]: Preparing start region for level 2 (Seed: 906498871161195631)
+[15:47:38] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
+[15:47:38] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6606013473932763790)
+[15:47:39] [Server thread/INFO]: Preparing spawn area for lobby, 69%
+[15:47:39] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
+[15:47:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[15:47:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:47:40] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[15:47:40] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[15:47:40] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[15:47:40] [Server thread/INFO]: git-Bukkit-33d5de3 (MC: 1.8)
+[15:47:40] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[15:47:40] [Server thread/INFO]: Using locale es_ES
+[15:47:40] [Server thread/INFO]: Using locale es_ES
+[15:47:40] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[15:47:40] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:47:40] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:47:40] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: Fe version: 1.5.0-b28)
+[15:47:40] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[15:47:40] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
+[15:47:40] [Server thread/INFO]: Descargando base de datos de GeoIP... Puede tardar unos minutos (países: 0.6 MB, ciudades: 20 MB)
+[15:47:40] [Server thread/ERROR]: No se ha podido abrir la conexion.
 java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_231]
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_231]
@@ -74,7 +85,7 @@ java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/databas
 	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:190) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:484) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-[14:41:03] [Server thread/ERROR]: Error occurred while enabling EssentialsGeoIP vTeamCity (Is it up to date?)
+[15:47:40] [Server thread/ERROR]: Error occurred while enabling EssentialsGeoIP vTeamCity (Is it up to date?)
 java.lang.NoClassDefFoundError: com/maxmind/geoip/LookupService
 	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:132) ~[?:?]
 	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:41) ~[?:?]
@@ -97,52 +108,42 @@ Caused by: java.lang.ClassNotFoundException: com.maxmind.geoip.LookupService
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_231]
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_231]
 	... 14 more
-[14:41:03] [Server thread/INFO]: [LocationTeleport] Enabling LocationTeleport v3.0.2
-[14:41:03] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[m by Jonathan Gurebo has been enabled.[m
-[14:41:03] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
-[14:41:03] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.3
-[14:41:03] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[14:41:03] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[14:41:03] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[14:41:03] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
-[14:41:03] [Server thread/INFO]: [Towny] Enabling Towny v0.93.1.0a (for MC 1.8.9)
-[14:41:03] [Server thread/INFO]: ====================      Towny      ========================
-[14:41:03] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
-[14:41:04] [Server thread/WARN]: [Towny] Error: No compatible Economy plugins found. Install Vault.jar with any of the supported eco systems.
-[14:41:04] [Server thread/WARN]: [Towny] Error: If you do not want an economy to be used, set using_economy: false in your Towny config.yml.
-[14:41:04] [Server thread/INFO]: [Towny] Using: PermissionsEX v1.23.3
-[14:41:04] [Server thread/INFO]: [Towny] Time until a New Day: 21 hours, 18 minutes, 56 seconds
-[14:41:04] [Server thread/INFO]: =============================================================
-[14:41:04] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Enabled
-[14:41:04] [Server thread/INFO]: =============================================================
-[14:41:04] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.0
-[14:41:04] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
-[14:41:04] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[14:41:04] [Server thread/INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
-[14:41:04] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
-[14:41:04] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby'
-[14:41:04] [Server thread/INFO]: [WorldGuard] Loading region data...
-[14:41:04] [Server thread/INFO]: [TownyChat] Enabling TownyChat v0.54
-[14:41:05] [Server thread/INFO]: [TownyChat] Default Channel set to general
-[14:41:05] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vTeamCity
-[14:41:05] [Server thread/ERROR]: Error occurred while enabling EssentialsXMPP vTeamCity (Is it up to date?)
+[15:47:40] [Server thread/INFO]: [LocationTeleport] Enabling LocationTeleport v3.0.2
+[15:47:40] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[m by Jonathan Gurebo has been enabled.[m
+[15:47:40] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
+[15:47:40] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.3
+[15:47:40] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:47:40] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:47:40] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:47:40] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:47:40] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:47:40] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[15:47:40] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.0
+[15:47:40] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[15:47:40] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:47:41] [Server thread/INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[15:47:41] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[15:47:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby'
+[15:47:41] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:47:41] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vTeamCity
+[15:47:41] [Server thread/ERROR]: Error occurred while enabling EssentialsXMPP vTeamCity (Is it up to date?)
 java.lang.NoClassDefFoundError: org/jivesoftware/smack/MessageListener
 	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_231]
 	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_231]
@@ -178,15 +179,33 @@ Caused by: java.lang.ClassNotFoundException: org.jivesoftware.smack.MessageListe
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_231]
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_231]
 	... 27 more
-[14:41:05] [Server thread/INFO]: [TownyNameUpdater] Enabling TownyNameUpdater v2.5
-[14:41:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:41:05] [Server thread/INFO]: Done (9,641s)! For help, type "help" or "?"
-[14:41:05] [Server thread/INFO]: [TownyChat] -******* TownyChat enabled *******-
-[14:41:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3411ms behind, skipping 68 tick(s)
-[14:41:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5620ms behind, skipping 112 tick(s)
-[14:46:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5013ms behind, skipping 100 tick(s)
-[14:53:59] [Server thread/INFO]: Capt4inNem0[/192.168.0.20:59933] logged in with entity id 647 at ([lobby] -145.01936388989023, 110.21070641260425, -211.64999531834286)
-[14:54:00] [Server thread/WARN]: [Essentials] Task #35 for Essentials vTeamCity generated an exception
+[15:47:41] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.8.9
+[15:47:41] [Server thread/INFO]: [ChestShop] Vault loaded! Found an economy plugin!
+[15:47:41] [Server thread/INFO]: [Towny] Enabling Towny v0.93.1.0a (for MC 1.8.9)
+[15:47:41] [Server thread/INFO]: ====================      Towny      ========================
+[15:47:41] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
+[15:47:42] [Server thread/INFO]: [Towny] Using: PermissionsEX v1.23.3, Fe via Vault
+[15:47:42] [Server thread/INFO]: [Towny] Time until a New Day: 20 hours, 12 minutes, 18 seconds
+[15:47:42] [Server thread/INFO]: =============================================================
+[15:47:42] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Enabled
+[15:47:42] [Server thread/INFO]: =============================================================
+[15:47:42] [Server thread/INFO]: [Jobs] Enabling Jobs v2.51.1
+[15:47:42] [Jobs-DatabaseSaveTask/INFO]: [0;32;22mStarted database save task.[m
+[15:47:42] [Jobs-BufferedPaymentThread/INFO]: [0;32;22mStarted buffered payment thread.[m
+[15:47:42] [Server thread/INFO]: [0;33;22mmcMMO was not found - Disabling capabilities.[m
+[15:47:42] [Server thread/INFO]: [0;32;22mPlugin has been enabled succesfully.[m
+[15:47:42] [Server thread/INFO]: [TownyChat] Enabling TownyChat v0.54
+[15:47:43] [Server thread/INFO]: [TownyChat] Default Channel set to general
+[15:47:43] [Server thread/INFO]: [TownyNameUpdater] Enabling TownyNameUpdater v2.5
+[15:47:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:47:43] [Server thread/INFO]: Done (7,731s)! For help, type "help" or "?"
+[15:47:43] [Server thread/INFO]: [0;32;22m[Jobs] Successfully linked with Vault.[m
+[15:47:43] [Server thread/INFO]: [TownyChat] -******* TownyChat enabled *******-
+[15:47:43] [pool-3-thread-2/INFO]: [Vault] Checking for Updates ... 
+[15:47:45] [pool-3-thread-2/WARN]: [Vault] Stable Version: 1.7.2 is out! You are still running version: 1.5.0
+[15:47:45] [pool-3-thread-2/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[15:47:53] [Server thread/INFO]: Capt4inNem0[/192.168.0.20:60640] logged in with entity id 652 at ([world] -745.5131945663067, 6.0, -620.555578329108)
+[15:47:53] [Server thread/WARN]: [Essentials] Task #42 for Essentials vTeamCity generated an exception
 java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
@@ -197,181 +216,72 @@ java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-[14:54:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2265ms behind, skipping 45 tick(s)
-[14:54:07] [Server thread/INFO]: Capt4inNem0 issued server command: /toggledownfall
-[14:54:07] [Server thread/INFO]: [Capt4inNem0: Toggled downfall]
-[14:54:47] [Server thread/INFO]: Capt4inNem0 issued server command: /warp mapamundi
-[14:55:09] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
-[14:57:08] [Server thread/INFO]: Capt4inNem0 issued server command: /toggledownfall
-[14:57:08] [Server thread/INFO]: [Capt4inNem0: Toggled downfall]
-[15:01:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3621ms behind, skipping 72 tick(s)
-[15:01:33] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
-[15:01:36] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
-[15:01:57] [Server thread/INFO]: Capt4inNem0 issued server command: /hd
-[15:02:02] [Server thread/INFO]: Capt4inNem0 issued server command: /hd help
-[15:02:02] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'hd' in plugin HolographicDisplays v2.4.0
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:625) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_231]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_231]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:656) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+[15:47:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2408ms behind, skipping 48 tick(s)
+[15:47:57] [Server thread/INFO]: Capt4inNem0 issued server command: /jobs
+[15:48:28] [Server thread/INFO]: Capt4inNem0 issued server command: /hd create chestshoptutorial &6 Tutorial de trabajos (Jobs)
+[15:48:38] [Server thread/INFO]: Capt4inNem0 issued server command: /hd create jobstutorial &6 Tutorial de trabajos (Jobs)
+[15:49:07] [Server thread/INFO]: Capt4inNem0 issued server command: /hd movehere jobstutorial
+[15:49:44] [Server thread/INFO]: [0;31;1mUsage: /hd edit <hologramName>[m
+[15:49:50] [Server thread/INFO]: [m
+[15:49:50] [Server thread/INFO]: [0;36;22m[21m----- How to edit the hologram 'mercadotutorial'[0;36;22m[21m -----[m
+[15:49:50] [Server thread/INFO]: [0;36;1m/hd addline mercadotutorial <text>[m
+[15:49:50] [Server thread/INFO]: [0;36;1m/hd removeline mercadotutorial <lineNumber>[m
+[15:49:50] [Server thread/INFO]: [0;36;1m/hd setline mercadotutorial <lineNumber> <newText>[m
+[15:49:50] [Server thread/INFO]: [0;36;1m/hd insertline mercadotutorial <lineNumber> <text>[m
+[15:49:50] [Server thread/INFO]: [0;36;1m/hd readtext mercadotutorial <fileWithExtension>[m
+[15:49:50] [Server thread/INFO]: [0;36;1m/hd readimage mercadotutorial <imageWithExtension> <width>[m
+[15:49:50] [Server thread/INFO]: [0;36;1m/hd info mercadotutorial[m
+[15:50:27] [Server thread/INFO]: [0;36;1mLine 1 changed![m
+[15:50:55] [Server thread/INFO]: Capt4inNem0 lost connection: Disconnected
+[15:50:55] [Server thread/INFO]: Capt4inNem0 left the game.
+[15:50:55] [Server thread/WARN]: [Essentials] Task #52 for Essentials vTeamCity generated an exception
+java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:349) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:668) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-Caused by: java.lang.NoSuchMethodError: org.bukkit.entity.Player.spigot()Lorg/bukkit/entity/Player$Spigot;
-	at com.gmail.filoghost.holographicdisplays.commands.main.subs.HelpCommand.execute(HelpCommand.java:70) ~[?:?]
-	at com.gmail.filoghost.holographicdisplays.commands.main.HologramsCommandHandler.onCommand(HologramsCommandHandler.java:115) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	... 14 more
-[15:02:11] [Server thread/INFO]: Capt4inNem0 issued server command: /hd help
-[15:02:11] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'hd' in plugin HolographicDisplays v2.4.0
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:625) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_231]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_231]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:656) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-Caused by: java.lang.NoSuchMethodError: org.bukkit.entity.Player.spigot()Lorg/bukkit/entity/Player$Spigot;
-	at com.gmail.filoghost.holographicdisplays.commands.main.subs.HelpCommand.execute(HelpCommand.java:70) ~[?:?]
-	at com.gmail.filoghost.holographicdisplays.commands.main.HologramsCommandHandler.onCommand(HologramsCommandHandler.java:115) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	... 14 more
-[15:02:22] [Server thread/INFO]: Capt4inNem0 issued server command: /hhelp hd
-[15:02:27] [Server thread/INFO]: Capt4inNem0 issued server command: /help hd
-[15:02:31] [Server thread/INFO]: Capt4inNem0 issued server command: /hd
-[15:03:23] [Server thread/INFO]: [m
-[15:03:23] [Server thread/INFO]: [0;36;22m[21m----- Holographic Displays Commands[0;36;22m[21m -----[m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd create <hologramName> [text][m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd delete <hologramName>[m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd edit <hologramName>[m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd list [page][m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd near <radius>[m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd teleport <hologramName>[m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd movehere <hologramName>[m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd align <X | Y | Z | XZ> <hologram> <referenceHologram>[m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd copy <fromHologram> <toHologram>[m
-[15:03:23] [Server thread/INFO]: [0;36;1m/hd reload[m
-[15:04:28] [Server thread/INFO]: [0;37;1mRegistered groups: [m
-[15:04:28] [Server thread/INFO]:   default  #0  [0;32;22m[][m
-[15:04:28] [Server thread/INFO]:   God  #10  [0;32;22m[default][m
-[15:04:31] [Server thread/INFO]: 'God' inherits the following groups:[m
-[15:04:31] [Server thread/INFO]:    default (not ranked)[m
-[15:04:31] [Server thread/INFO]: Group "God"'s permissions:[m
-[15:04:31] [Server thread/INFO]: 1) essentials.build (own)[m
-[15:04:31] [Server thread/INFO]: 2) essentials.* (own)[m
-[15:04:31] [Server thread/INFO]: Group "God"'s Options: [m
-[15:04:31] [Server thread/INFO]:   weight = "10"[m
-[15:04:31] [Server thread/INFO]:   prefix = "[God]"[m
-[15:05:26] [Server thread/INFO]: [0;37;1mPermission "holograms.*" added to group "God"![m
-[15:05:29] [Server thread/INFO]: 'God' inherits the following groups:[m
-[15:05:29] [Server thread/INFO]:    default (not ranked)[m
-[15:05:29] [Server thread/INFO]: Group "God"'s permissions:[m
-[15:05:29] [Server thread/INFO]: 1) holograms.* (own)[m
-[15:05:29] [Server thread/INFO]: 2) essentials.build (own)[m
-[15:05:29] [Server thread/INFO]: 3) essentials.* (own)[m
-[15:05:29] [Server thread/INFO]: Group "God"'s Options: [m
-[15:05:29] [Server thread/INFO]:   weight = "10"[m
-[15:05:29] [Server thread/INFO]:   prefix = "[God]"[m
-[15:06:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2930ms behind, skipping 58 tick(s)
-[15:11:08] [Server thread/INFO]: Capt4inNem0 issued server command: /hd create townyspawnwelcome &cBienvenido! a
-[15:11:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2612ms behind, skipping 52 tick(s)
-[15:12:07] [Server thread/INFO]: Capt4inNem0 issued server command: /hd edit townyspawnwelcome &cBienvenido &ra
-[15:12:07] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'hd' in plugin HolographicDisplays v2.4.0
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:625) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_231]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_231]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:656) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-Caused by: java.lang.NoSuchMethodError: org.bukkit.entity.Player.spigot()Lorg/bukkit/entity/Player$Spigot;
-	at com.gmail.filoghost.holographicdisplays.commands.main.subs.EditCommand.execute(EditCommand.java:85) ~[?:?]
-	at com.gmail.filoghost.holographicdisplays.commands.main.HologramsCommandHandler.onCommand(HologramsCommandHandler.java:115) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	... 14 more
-[15:12:12] [Server thread/INFO]: Capt4inNem0 issued server command: /hd edit townyspawnwelcome &cBienvenido &r a
-[15:12:12] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'hd' in plugin HolographicDisplays v2.4.0
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:140) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:625) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1058) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:919) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:37) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(SourceFile:9) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_231]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_231]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:656) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-Caused by: java.lang.NoSuchMethodError: org.bukkit.entity.Player.spigot()Lorg/bukkit/entity/Player$Spigot;
-	at com.gmail.filoghost.holographicdisplays.commands.main.subs.EditCommand.execute(EditCommand.java:85) ~[?:?]
-	at com.gmail.filoghost.holographicdisplays.commands.main.HologramsCommandHandler.onCommand(HologramsCommandHandler.java:115) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
-	... 14 more
-[15:12:21] [Server thread/INFO]: Capt4inNem0 issued server command: /stop
-[15:12:21] [Server thread/INFO]: [Capt4inNem0: Stopping the server]
-[15:12:21] [Server thread/INFO]: Stopping server
-[15:12:21] [Server thread/INFO]: [TownyNameUpdater] Disabling TownyNameUpdater v2.5
-[15:12:21] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
-[15:12:21] [Server thread/INFO]: [TownyChat] Disabling TownyChat v0.54
-[15:12:21] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
-[15:12:21] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[15:12:21] [Server thread/INFO]: [Fe] Disabling Fe v0.9
-[15:12:21] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
-[15:12:21] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.0
-[15:12:21] [Server thread/INFO]: [Towny] Disabling Towny v0.93.1.0a (for MC 1.8.9)
-[15:12:21] [Server thread/INFO]: ==============================================================
-[15:12:21] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Disabled
-[15:12:21] [Server thread/INFO]: =============================================================
-[15:12:21] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.3
-[15:12:21] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[15:12:21] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
-[15:12:21] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[15:12:21] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[15:12:21] [Server thread/INFO]: [LocationTeleport] Disabling LocationTeleport v3.0.2
-[15:12:21] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[0;35;22m is disabled[m
-[15:12:21] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
-[15:12:21] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
-[15:12:21] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[15:12:21] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
-[15:12:21] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
-[15:12:21] [Server thread/INFO]: [MultiWorld] Disabled.
-[15:12:21] [Server thread/INFO]: Saving players
-[15:12:21] [Server thread/INFO]: Capt4inNem0 lost connection: Server closed
-[15:12:21] [Server thread/INFO]: Capt4inNem0 left the game.
-[15:12:21] [Server thread/INFO]: Saving worlds
-[15:12:21] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:12:22] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[15:12:22] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[15:12:22] [Server thread/INFO]: Saving chunks for level 'lobby'/Overworld
+[15:50:59] [Server thread/INFO]: Stopping the server
+[15:50:59] [Server thread/INFO]: Stopping server
+[15:50:59] [Server thread/INFO]: [TownyNameUpdater] Disabling TownyNameUpdater v2.5
+[15:50:59] [Server thread/INFO]: [TownyChat] Disabling TownyChat v0.54
+[15:50:59] [Server thread/INFO]: [Jobs] Disabling Jobs v2.51.1
+[15:50:59] [Jobs-DatabaseSaveTask/INFO]: [0;33;22mDatabase save task shutdown![m
+[15:50:59] [Jobs-BufferedPaymentThread/INFO]: [0;33;22mBuffered payment thread shutdown.[m
+[15:50:59] [Server thread/INFO]: [0;32;22mPlugin has been disabled succesfully.[m
+[15:50:59] [Server thread/INFO]: [Towny] Disabling Towny v0.93.1.0a (for MC 1.8.9)
+[15:50:59] [Server thread/INFO]: ==============================================================
+[15:50:59] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Disabled
+[15:50:59] [Server thread/INFO]: =============================================================
+[15:50:59] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.9
+[15:50:59] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
+[15:50:59] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[15:50:59] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[15:50:59] [Server thread/INFO]: [Fe] Disabling Fe v0.9
+[15:50:59] [Server thread/INFO]: [Fe] Vault support disabled.
+[15:50:59] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[15:50:59] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[15:50:59] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.0
+[15:50:59] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.3
+[15:50:59] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:50:59] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[15:50:59] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:50:59] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:50:59] [Server thread/INFO]: [LocationTeleport] Disabling LocationTeleport v3.0.2
+[15:50:59] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[0;35;22m is disabled[m
+[15:50:59] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[15:50:59] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[15:50:59] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[15:50:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[15:50:59] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
+[15:50:59] [Server thread/INFO]: [MultiWorld] Disabled.
+[15:50:59] [Server thread/INFO]: Saving players
+[15:50:59] [Server thread/INFO]: Saving worlds
+[15:50:59] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:51:00] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[15:51:00] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[15:51:00] [Server thread/INFO]: Saving chunks for level 'lobby'/Overworld

@@ -2,15 +2,26 @@ towny:
   location: world, -740.971, 8.000, -608.455
   lines:
   - Towny tutorial
-mercado:
-  location: world, -745.476, 8.200, -613.376
-  lines:
-  - Mercado tutorial
 spawnmapa:
   location: world, -579.617, 24.407, -499.147
   lines:
   - Spawn
 townyspawnwelcome:
-  location: world, -576.553, 150.200, -507.527
+  location: world, -576.222, 150.200, -507.634
   lines:
-  - '&cBienvenido! a'
+  - '&cBienvenido &r a'
+  - '{servername}'
+  - '...................................................'
+  - "Para m\xe1s info visita /warp tutoriales"
+mercadotutorial:
+  location: world, -745.561, 8.000, -612.552
+  lines:
+  - "&6 Tutorial de mercado y econom\xeda"
+chestshoptutorial:
+  location: world, -745.522, 10.000, -630.480
+  lines:
+  - '&6 Tutorial de tiendas (ChestShop)'
+jobstutorial:
+  location: world, -739.699, 10.000, -636.499
+  lines:
+  - '&6 Tutorial de trabajos (Jobs)'

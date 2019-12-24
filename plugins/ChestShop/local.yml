@@ -1,0 +1,50 @@
+prefix: "§a[Tienda] §r"
+iteminfo: "§aInformacion de item: §r"
+
+ACCESS_DENIED: "No tienes permisos para hacer eso!"
+
+NOT_ENOUGH_MONEY: "No tienes suficiente dinero!"
+NOT_ENOUGH_MONEY_SHOP: "El dueño de la tienda no tiene suficiente dinero!"
+
+CLIENT_DEPOSIT_FAILED: "El deposito de dinero a tu cuenta ha fallado!"
+SHOP_DEPOSIT_FAILED: "El deposito de dinero a la cuenta del dueño ha fallado!"
+
+NO_BUYING_HERE: "No puedes comprar aquí!"
+NO_SELLING_HERE: "No puedes vender aquí!"
+
+NOT_ENOUGH_SPACE_IN_INVENTORY: "No tienes suficiente espacio en el inventario!"
+NOT_ENOUGH_SPACE_IN_CHEST: "No hay suficiente espacio en el cofre!"
+NOT_ENOUGH_ITEMS_TO_SELL: "No tienes suficientes items para vender!"
+
+NOT_ENOUGH_STOCK: "Esta tienda ya no tiene stock."
+NOT_ENOUGH_STOCK_IN_YOUR_SHOP: "Tu tienda de %material ya no tiene stock!"
+
+YOU_BOUGHT_FROM_SHOP: "Le compraste %item a %owner por %price."
+SOMEBODY_BOUGHT_FROM_YOUR_SHOP: "%buyer te compró %item por %price."
+
+YOU_SOLD_TO_SHOP: "Vendiste %item a %buyer por %price."
+SOMEBODY_SOLD_TO_YOUR_SHOP: "%seller te vendió %item por %price."
+
+YOU_CANNOT_CREATE_SHOP: "No puedes crear este tipo de tienda!"
+NO_CHEST_DETECTED: "No se encontró un cofre!"
+INVALID_SHOP_DETECTED: "La tienda no puede ser usada!"
+CANNOT_ACCESS_THE_CHEST: "No tienes permisos para acceder a este cofre!"
+
+PROTECTED_SHOP: "Successfully protected the shop with LWC!"
+SHOP_CREATED: "La tienda se creó satisfactoriamente!"
+SHOP_FEE_PAID: "Has pagado %amount de impuestos"
+SHOP_REFUNDED: "Has reembolsado %amount."
+ITEM_GIVEN: "Le diste %item a %player."
+
+RESTRICTED_SIGN_CREATED: "Cartel creado satisfactoriamente!"
+
+PLAYER_NOT_FOUND: "Jugador no encontrado!"
+NO_PERMISSION: "No tienes permisos de hacer eso!"
+INCORRECT_ITEM_ID: "Has puesto un id de item inválido!"
+NOT_ENOUGH_PROTECTIONS: "No se pudo crear una protección!"
+
+CANNOT_CREATE_SHOP_HERE: "No puedes crear una tienda aquí!"
+
+TOGGLE_MESSAGES_OFF: "No recibirás más mensajes de tus tiendas."
+TOGGLE_MESSAGES_ON: "Ahora recibirás mensajes de tus tiendas."
+

@@ -3,18 +3,24 @@ groups:
     options:
       default: true
     permissions:
+    - ChestShop.shop.*
     - essentials.build
     - modifyworld.*
   God:
     inheritance:
     - default
+    - Mod
     options:
       weight: '10'
       prefix: '[God]'
     permissions:
+    - ChestShop.admin
     - holograms.*
     - essentials.build
     - essentials.*
+  Mod:
+    inheritance:
+    - default
 schema-version: 1
 users:
   group:

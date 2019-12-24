@@ -1,7 +1,5 @@
-[24-dic-2019 14:41:04] [Towny] Error: No compatible Economy plugins found. Install Vault.jar with any of the supported eco systems.
-[24-dic-2019 14:41:04] [Towny] Error: If you do not want an economy to be used, set using_economy: false in your Towny config.yml.
-[24-dic-2019 14:41:04] [Towny] Using: PermissionsEX v1.23.3
-[24-dic-2019 14:41:04] [Towny] Time until a New Day: 21 hours, 18 minutes, 56 seconds
-[24-dic-2019 14:41:04] =============================================================
-[24-dic-2019 14:41:04] [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Enabled
-[24-dic-2019 14:41:04] =============================================================
+[24-dic-2019 15:47:42] [Towny] Using: PermissionsEX v1.23.3, Fe via Vault
+[24-dic-2019 15:47:42] [Towny] Time until a New Day: 20 hours, 12 minutes, 18 seconds
+[24-dic-2019 15:47:42] =============================================================
+[24-dic-2019 15:47:42] [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Enabled
+[24-dic-2019 15:47:42] =============================================================
