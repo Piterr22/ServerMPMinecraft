@@ -1,72 +1,71 @@
-[15:47:34] [Server thread/INFO]: Starting minecraft server version 1.8
-[15:47:34] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[15:47:34] [Server thread/INFO]: Loading properties
-[15:47:34] [Server thread/INFO]: Default game type: SURVIVAL
-[15:47:34] [Server thread/INFO]: Generating keypair
-[15:47:34] [Server thread/INFO]: Starting Minecraft server on 192.168.0.20:25565
-[15:47:34] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
-[15:47:34] [Server thread/ERROR]: Ambiguous plugin name `EssentialsGeoIP' for files `plugins\original-EssentialsGeoIP-2.x-SNAPSHOT.jar' and `plugins\EssentialsGeoIP-2.x-SNAPSHOT.jar' in `plugins'
-[15:47:34] [Server thread/ERROR]: Ambiguous plugin name `EssentialsXMPP' for files `plugins\original-EssentialsXMPP-2.x-SNAPSHOT.jar' and `plugins\EssentialsXMPP-2.x-SNAPSHOT.jar' in `plugins'
-[15:47:35] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
-[15:47:35] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[15:47:35] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
-[15:47:35] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
-[15:47:35] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
-[15:47:35] [Server thread/INFO]: [LocationTeleport] Loading LocationTeleport v3.0.2
-[15:47:35] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
-[15:47:35] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.3
-[15:47:35] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
-[15:47:35] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.0
-[15:47:35] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
-[15:47:35] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
-[15:47:35] [Server thread/INFO]: [Fe] Loading Fe v0.9
-[15:47:35] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
-[15:47:35] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vTeamCity
-[15:47:35] [Server thread/INFO]: [ChestShop] Loading ChestShop v3.8.9
-[15:47:35] [Server thread/INFO]: [Towny] Loading Towny v0.93.1.0a (for MC 1.8.9)
-[15:47:35] [Server thread/INFO]: [Jobs] Loading Jobs v2.51.1
-[15:47:35] [Server thread/INFO]: [TownyChat] Loading TownyChat v0.54
-[15:47:35] [Server thread/INFO]: [TownyNameUpdater] Loading TownyNameUpdater v2.5
-[15:47:35] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
-[15:47:35] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[15:47:35] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[15:47:35] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[15:47:35] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[15:47:35] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
-[15:47:35] [Server thread/INFO]: [Fe] Enabling Fe v0.9
-[15:47:35] [Server thread/INFO]: [Fe] Vault support enabled.
-[15:47:35] [Server thread/INFO]: [Fe] All accounts with the default balance have been removed.
-[15:47:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:47:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:47:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:47:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:47:35] [Server thread/INFO]: Preparing level "world"
-[15:47:35] [Server thread/INFO]: Preparing start region for level 0 (Seed: 906498871161195631)
-[15:47:36] [Server thread/INFO]: Preparing spawn area: 53%
-[15:47:36] [Server thread/INFO]: Preparing start region for level 1 (Seed: 906498871161195631)
-[15:47:37] [Server thread/INFO]: Preparing spawn area: 80%
-[15:47:38] [Server thread/INFO]: Preparing start region for level 2 (Seed: 906498871161195631)
-[15:47:38] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
-[15:47:38] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6606013473932763790)
-[15:47:39] [Server thread/INFO]: Preparing spawn area for lobby, 69%
-[15:47:39] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
-[15:47:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[15:47:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[15:47:40] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
-[15:47:40] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
-[15:47:40] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[15:47:40] [Server thread/INFO]: git-Bukkit-33d5de3 (MC: 1.8)
-[15:47:40] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
-[15:47:40] [Server thread/INFO]: Using locale es_ES
-[15:47:40] [Server thread/INFO]: Using locale es_ES
-[15:47:40] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
-[15:47:40] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[15:47:40] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[15:47:40] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: Fe version: 1.5.0-b28)
-[15:47:40] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
-[15:47:40] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
-[15:47:40] [Server thread/INFO]: Descargando base de datos de GeoIP... Puede tardar unos minutos (países: 0.6 MB, ciudades: 20 MB)
-[15:47:40] [Server thread/ERROR]: No se ha podido abrir la conexion.
+[17:45:47] [Server thread/INFO]: Starting minecraft server version 1.8
+[17:45:47] [Server thread/INFO]: Loading properties
+[17:45:47] [Server thread/INFO]: Default game type: SURVIVAL
+[17:45:47] [Server thread/INFO]: Generating keypair
+[17:45:48] [Server thread/INFO]: Starting Minecraft server on 192.168.0.20:25565
+[17:45:48] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[17:45:48] [Server thread/ERROR]: Ambiguous plugin name `EssentialsGeoIP' for files `plugins\original-EssentialsGeoIP-2.x-SNAPSHOT.jar' and `plugins\EssentialsGeoIP-2.x-SNAPSHOT.jar' in `plugins'
+[17:45:48] [Server thread/ERROR]: Ambiguous plugin name `EssentialsXMPP' for files `plugins\original-EssentialsXMPP-2.x-SNAPSHOT.jar' and `plugins\EssentialsXMPP-2.x-SNAPSHOT.jar' in `plugins'
+[17:45:49] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
+[17:45:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[17:45:49] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[17:45:49] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[17:45:49] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
+[17:45:49] [Server thread/INFO]: [LocationTeleport] Loading LocationTeleport v3.0.2
+[17:45:49] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
+[17:45:49] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.3
+[17:45:49] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[17:45:49] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.0
+[17:45:49] [Server thread/INFO]: [Vault] Loading Vault v1.5.0-b28
+[17:45:49] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[17:45:49] [Server thread/INFO]: [Fe] Loading Fe v0.9
+[17:45:49] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[17:45:49] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vTeamCity
+[17:45:49] [Server thread/INFO]: [ChestShop] Loading ChestShop v3.8.9
+[17:45:49] [Server thread/INFO]: [Towny] Loading Towny v0.93.1.0a (for MC 1.8.9)
+[17:45:49] [Server thread/INFO]: [Jobs] Loading Jobs v2.51.1
+[17:45:49] [Server thread/INFO]: [TownyChat] Loading TownyChat v0.54
+[17:45:49] [Server thread/INFO]: [TownyNameUpdater] Loading TownyNameUpdater v2.5
+[17:45:49] [Server thread/INFO]: [Vault] Enabling Vault v1.5.0-b28
+[17:45:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:45:49] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[17:45:49] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:45:49] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[17:45:49] [Server thread/INFO]: [Vault] Enabled Version 1.5.0-b28
+[17:45:49] [Server thread/INFO]: [Fe] Enabling Fe v0.9
+[17:45:49] [Server thread/INFO]: [Fe] Vault support enabled.
+[17:45:49] [Server thread/INFO]: [Fe] All accounts with the default balance have been removed.
+[17:45:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:45:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:45:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:45:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:45:49] [Server thread/INFO]: Preparing level "world"
+[17:45:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: 906498871161195631)
+[17:45:50] [Server thread/INFO]: Preparing spawn area: 50%
+[17:45:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: 906498871161195631)
+[17:45:52] [Server thread/INFO]: Preparing spawn area: 74%
+[17:45:52] [Server thread/INFO]: Preparing start region for level 2 (Seed: 906498871161195631)
+[17:45:52] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
+[17:45:52] [Server thread/INFO]: Preparing start region for level 3 (Seed: 6606013473932763790)
+[17:45:53] [Server thread/INFO]: Preparing spawn area for lobby, 73%
+[17:45:54] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
+[17:45:54] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[17:45:54] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:45:54] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[17:45:54] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[17:45:54] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[17:45:54] [Server thread/INFO]: git-Bukkit-33d5de3 (MC: 1.8)
+[17:45:54] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[17:45:54] [Server thread/INFO]: Using locale es_ES
+[17:45:54] [Server thread/INFO]: Using locale es_ES
+[17:45:54] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[17:45:54] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[17:45:54] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[17:45:54] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: Fe version: 1.5.0-b28)
+[17:45:54] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[17:45:54] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
+[17:45:54] [Server thread/INFO]: Descargando base de datos de GeoIP... Puede tardar unos minutos (países: 0.6 MB, ciudades: 20 MB)
+[17:45:55] [Server thread/ERROR]: No se ha podido abrir la conexion.
 java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_231]
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_231]
@@ -85,7 +84,7 @@ java.io.FileNotFoundException: http://geolite.maxmind.com/download/geoip/databas
 	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:190) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:484) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-[15:47:40] [Server thread/ERROR]: Error occurred while enabling EssentialsGeoIP vTeamCity (Is it up to date?)
+[17:45:55] [Server thread/ERROR]: Error occurred while enabling EssentialsGeoIP vTeamCity (Is it up to date?)
 java.lang.NoClassDefFoundError: com/maxmind/geoip/LookupService
 	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:132) ~[?:?]
 	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:41) ~[?:?]
@@ -108,42 +107,42 @@ Caused by: java.lang.ClassNotFoundException: com.maxmind.geoip.LookupService
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_231]
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_231]
 	... 14 more
-[15:47:40] [Server thread/INFO]: [LocationTeleport] Enabling LocationTeleport v3.0.2
-[15:47:40] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[m by Jonathan Gurebo has been enabled.[m
-[15:47:40] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
-[15:47:40] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.3
-[15:47:40] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[15:47:40] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[15:47:40] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[15:47:40] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[15:47:40] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[15:47:40] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
-[15:47:40] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.0
-[15:47:40] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
-[15:47:40] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[15:47:41] [Server thread/INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
-[15:47:41] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
-[15:47:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby'
-[15:47:41] [Server thread/INFO]: [WorldGuard] Loading region data...
-[15:47:41] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vTeamCity
-[15:47:41] [Server thread/ERROR]: Error occurred while enabling EssentialsXMPP vTeamCity (Is it up to date?)
+[17:45:55] [Server thread/INFO]: [LocationTeleport] Enabling LocationTeleport v3.0.2
+[17:45:55] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[m by Jonathan Gurebo has been enabled.[m
+[17:45:55] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
+[17:45:55] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.3
+[17:45:55] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[17:45:55] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[17:45:55] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[17:45:55] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[17:45:55] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[17:45:55] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[17:45:55] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.0
+[17:45:55] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[17:45:55] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[17:45:55] [Server thread/INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[17:45:55] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[17:45:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby'
+[17:45:55] [Server thread/INFO]: [WorldGuard] Loading region data...
+[17:45:55] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vTeamCity
+[17:45:55] [Server thread/ERROR]: Error occurred while enabling EssentialsXMPP vTeamCity (Is it up to date?)
 java.lang.NoClassDefFoundError: org/jivesoftware/smack/MessageListener
 	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_231]
 	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_231]
@@ -179,33 +178,33 @@ Caused by: java.lang.ClassNotFoundException: org.jivesoftware.smack.MessageListe
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_231]
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_231]
 	... 27 more
-[15:47:41] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.8.9
-[15:47:41] [Server thread/INFO]: [ChestShop] Vault loaded! Found an economy plugin!
-[15:47:41] [Server thread/INFO]: [Towny] Enabling Towny v0.93.1.0a (for MC 1.8.9)
-[15:47:41] [Server thread/INFO]: ====================      Towny      ========================
-[15:47:41] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
-[15:47:42] [Server thread/INFO]: [Towny] Using: PermissionsEX v1.23.3, Fe via Vault
-[15:47:42] [Server thread/INFO]: [Towny] Time until a New Day: 20 hours, 12 minutes, 18 seconds
-[15:47:42] [Server thread/INFO]: =============================================================
-[15:47:42] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Enabled
-[15:47:42] [Server thread/INFO]: =============================================================
-[15:47:42] [Server thread/INFO]: [Jobs] Enabling Jobs v2.51.1
-[15:47:42] [Jobs-DatabaseSaveTask/INFO]: [0;32;22mStarted database save task.[m
-[15:47:42] [Jobs-BufferedPaymentThread/INFO]: [0;32;22mStarted buffered payment thread.[m
-[15:47:42] [Server thread/INFO]: [0;33;22mmcMMO was not found - Disabling capabilities.[m
-[15:47:42] [Server thread/INFO]: [0;32;22mPlugin has been enabled succesfully.[m
-[15:47:42] [Server thread/INFO]: [TownyChat] Enabling TownyChat v0.54
-[15:47:43] [Server thread/INFO]: [TownyChat] Default Channel set to general
-[15:47:43] [Server thread/INFO]: [TownyNameUpdater] Enabling TownyNameUpdater v2.5
-[15:47:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:47:43] [Server thread/INFO]: Done (7,731s)! For help, type "help" or "?"
-[15:47:43] [Server thread/INFO]: [0;32;22m[Jobs] Successfully linked with Vault.[m
-[15:47:43] [Server thread/INFO]: [TownyChat] -******* TownyChat enabled *******-
-[15:47:43] [pool-3-thread-2/INFO]: [Vault] Checking for Updates ... 
-[15:47:45] [pool-3-thread-2/WARN]: [Vault] Stable Version: 1.7.2 is out! You are still running version: 1.5.0
-[15:47:45] [pool-3-thread-2/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
-[15:47:53] [Server thread/INFO]: Capt4inNem0[/192.168.0.20:60640] logged in with entity id 652 at ([world] -745.5131945663067, 6.0, -620.555578329108)
-[15:47:53] [Server thread/WARN]: [Essentials] Task #42 for Essentials vTeamCity generated an exception
+[17:45:55] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.8.9
+[17:45:56] [Server thread/INFO]: [ChestShop] Vault loaded! Found an economy plugin!
+[17:45:56] [Server thread/INFO]: [Towny] Enabling Towny v0.93.1.0a (for MC 1.8.9)
+[17:45:56] [Server thread/INFO]: ====================      Towny      ========================
+[17:45:56] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
+[17:45:56] [Server thread/INFO]: [Towny] Using: PermissionsEX v1.23.3, Fe via Vault
+[17:45:56] [Server thread/INFO]: [Towny] Time until a New Day: 18 hours, 14 minutes, 4 seconds
+[17:45:57] [Server thread/INFO]: =============================================================
+[17:45:57] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Enabled
+[17:45:57] [Server thread/INFO]: =============================================================
+[17:45:57] [Server thread/INFO]: [Jobs] Enabling Jobs v2.51.1
+[17:45:57] [Jobs-DatabaseSaveTask/INFO]: [0;32;22mStarted database save task.[m
+[17:45:57] [Jobs-BufferedPaymentThread/INFO]: [0;32;22mStarted buffered payment thread.[m
+[17:45:57] [Server thread/INFO]: [0;33;22mmcMMO was not found - Disabling capabilities.[m
+[17:45:57] [Server thread/INFO]: [0;32;22mPlugin has been enabled succesfully.[m
+[17:45:57] [Server thread/INFO]: [TownyChat] Enabling TownyChat v0.54
+[17:45:57] [Server thread/INFO]: [TownyChat] Default Channel set to general
+[17:45:57] [Server thread/INFO]: [TownyNameUpdater] Enabling TownyNameUpdater v2.5
+[17:45:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:45:57] [Server thread/INFO]: Done (8,356s)! For help, type "help" or "?"
+[17:45:57] [Server thread/INFO]: [0;32;22m[Jobs] Successfully linked with Vault.[m
+[17:45:57] [Server thread/INFO]: [TownyChat] -******* TownyChat enabled *******-
+[17:45:57] [pool-3-thread-2/INFO]: [Vault] Checking for Updates ... 
+[17:45:59] [pool-3-thread-2/WARN]: [Vault] Stable Version: 1.7.2 is out! You are still running version: 1.5.0
+[17:45:59] [pool-3-thread-2/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[17:46:10] [Server thread/INFO]: Capt4inNem0[/192.168.0.20:55417] logged in with entity id 612 at ([world] 138.43674488544497, 63.0, -499.9963042375141)
+[17:46:10] [Server thread/WARN]: [Essentials] Task #41 for Essentials vTeamCity generated an exception
 java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
@@ -216,25 +215,134 @@ java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-[15:47:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2408ms behind, skipping 48 tick(s)
-[15:47:57] [Server thread/INFO]: Capt4inNem0 issued server command: /jobs
-[15:48:28] [Server thread/INFO]: Capt4inNem0 issued server command: /hd create chestshoptutorial &6 Tutorial de trabajos (Jobs)
-[15:48:38] [Server thread/INFO]: Capt4inNem0 issued server command: /hd create jobstutorial &6 Tutorial de trabajos (Jobs)
-[15:49:07] [Server thread/INFO]: Capt4inNem0 issued server command: /hd movehere jobstutorial
-[15:49:44] [Server thread/INFO]: [0;31;1mUsage: /hd edit <hologramName>[m
-[15:49:50] [Server thread/INFO]: [m
-[15:49:50] [Server thread/INFO]: [0;36;22m[21m----- How to edit the hologram 'mercadotutorial'[0;36;22m[21m -----[m
-[15:49:50] [Server thread/INFO]: [0;36;1m/hd addline mercadotutorial <text>[m
-[15:49:50] [Server thread/INFO]: [0;36;1m/hd removeline mercadotutorial <lineNumber>[m
-[15:49:50] [Server thread/INFO]: [0;36;1m/hd setline mercadotutorial <lineNumber> <newText>[m
-[15:49:50] [Server thread/INFO]: [0;36;1m/hd insertline mercadotutorial <lineNumber> <text>[m
-[15:49:50] [Server thread/INFO]: [0;36;1m/hd readtext mercadotutorial <fileWithExtension>[m
-[15:49:50] [Server thread/INFO]: [0;36;1m/hd readimage mercadotutorial <imageWithExtension> <width>[m
-[15:49:50] [Server thread/INFO]: [0;36;1m/hd info mercadotutorial[m
-[15:50:27] [Server thread/INFO]: [0;36;1mLine 1 changed![m
-[15:50:55] [Server thread/INFO]: Capt4inNem0 lost connection: Disconnected
-[15:50:55] [Server thread/INFO]: Capt4inNem0 left the game.
-[15:50:55] [Server thread/WARN]: [Essentials] Task #52 for Essentials vTeamCity generated an exception
+[17:46:40] [Server thread/INFO]: Capt4inNem0 issued server command: /town delete
+[17:46:47] [Server thread/INFO]: Capt4inNem0 issued server command: /confirm
+[17:46:47] [Server thread/INFO]: [Global Msg] The town of Primus fell into ruin!
+[17:46:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11078ms behind, skipping 221 tick(s)
+[17:47:34] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
+[17:48:12] [Server thread/INFO]: Opped Capt4inNem0
+[17:51:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3012ms behind, skipping 60 tick(s)
+[17:51:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3394ms behind, skipping 67 tick(s)
+[17:51:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2573ms behind, skipping 51 tick(s)
+[17:52:15] [Server thread/INFO]: Capt4inNem0 issued server command: //copy
+[17:52:20] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
+[17:52:26] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
+[17:52:34] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
+[17:52:42] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
+[17:52:46] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
+[17:52:54] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
+[17:53:00] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
+[17:53:04] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
+[17:53:11] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
+[17:53:17] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
+[17:53:32] [Server thread/INFO]: Capt4inNem0 issued server command: //rotate 90
+[17:53:33] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
+[17:54:10] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[17:54:43] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[17:56:24] [Server thread/INFO]: Capt4inNem0 issued server command: /deop Capt4inNem0
+[17:56:24] [Server thread/INFO]: [Capt4inNem0: De-opped Capt4inNem0]
+[17:56:29] [Server thread/INFO]: Capt4inNem0 issued server command: /warp tutoriales
+[17:56:34] [Server thread/INFO]: Capt4inNem0 fell out of the world
+[17:56:36] [Server thread/INFO]: [Essentials] Lag Notice - Slow Permissions System (PermissionsEx) Response - Request took over 37,396ms!
+[17:56:38] [Server thread/INFO]: Capt4inNem0 issued server command: /warp tutoriales
+[17:56:52] [Server thread/INFO]: Capt4inNem0 issued server command: /set
+[17:56:55] [Server thread/INFO]: Capt4inNem0 issued server command: /setwarp
+[17:56:55] [Server thread/INFO]: §cCapt4inNem0 §4ha denegado el acceso al comando.
+[18:00:51] [Server thread/INFO]: Capt4inNem0 issued server command: /wand
+[18:00:54] [Server thread/INFO]: Capt4inNem0 issued server command: //wand
+[18:01:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2158ms behind, skipping 43 tick(s)
+[18:01:56] [Server thread/INFO]: Opped Capt4inNem0
+[18:02:31] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[18:02:37] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
+[18:02:43] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[18:02:52] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
+[18:02:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2893ms behind, skipping 57 tick(s)
+[18:03:33] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[18:03:39] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
+[18:03:43] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[18:05:11] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[18:06:54] [Server thread/INFO]: Capt4inNem0 issued server command: //count
+[18:06:58] [Server thread/INFO]: Capt4inNem0 issued server command: //count 5:2
+[18:09:02] [Server thread/INFO]: Capt4inNem0 issued server command: //up
+[18:09:07] [Server thread/INFO]: Capt4inNem0 issued server command: //up 1
+[18:10:16] [Server thread/INFO]: Capt4inNem0 issued server command: /fw
+[18:10:18] [Server thread/INFO]: Capt4inNem0 issued server command: /fg
+[18:10:21] [Server thread/INFO]: Capt4inNem0 issued server command: /rg
+[18:10:29] [Server thread/INFO]: Capt4inNem0 issued server command: /rg create
+[18:10:38] [Server thread/INFO]: Capt4inNem0 issued server command: /rg create tutorial
+[18:10:54] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial
+[18:10:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:10:57] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial asd
+[18:11:17] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial build deny
+[18:11:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:11:28] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial greeting
+[18:11:46] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial greeting "hola
+[18:11:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:12:06] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial greeting allow
+[18:12:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:12:45] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial pvp deny
+[18:12:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:13:14] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial mob-spawning deny
+[18:13:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:13:39] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag tutorial greeting Bienvenido a los tutoriales, para más dudas usa /helpop
+[18:13:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:14:06] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[18:14:18] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
+[18:14:37] [Server thread/INFO]: Capt4inNem0 issued server command: /rg TownySpawn
+[18:14:41] [Server thread/INFO]: Capt4inNem0 issued server command: /rg TownySpawn flag
+[18:14:48] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn
+[18:16:02] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn greetings &c Bienvenido&r a&Towny survival
+[18:16:20] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn greeting &c Bienvenido&r a&3 Towny survival
+[18:16:25] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
+[18:16:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:16:47] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn greeting &6 Bienvenido&r a&3 Towny survival
+[18:16:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:16:58] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn build deny
+[18:17:14] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn mob-spawn deny
+[18:17:20] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn mob-spawning deny
+[18:17:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:17:28] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn mob-damage deny
+[18:17:34] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn pvp deny
+[18:17:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:17:58] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn enderpearl deny
+[18:18:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:19:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2754ms behind, skipping 55 tick(s)
+[18:20:23] [Server thread/INFO]: Capt4inNem0 issued server command: /deop Capt4inNem0
+[18:20:23] [Server thread/INFO]: [Capt4inNem0: De-opped Capt4inNem0]
+[18:21:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2942ms behind, skipping 58 tick(s)
+[18:26:37] [Server thread/INFO]: Opped Capt4inNem0
+[18:27:01] [Server thread/INFO]: Capt4inNem0 issued server command: //copy
+[18:27:21] [Server thread/INFO]: Capt4inNem0 issued server command: //paste
+[18:27:43] [Server thread/INFO]: Capt4inNem0 issued server command: /rg
+[18:27:48] [Server thread/INFO]: Capt4inNem0 issued server command: /rg delete
+[18:27:53] [Server thread/INFO]: Capt4inNem0 issued server command: /rg delete TownySpawn
+[18:27:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:29:10] [Server thread/INFO]: Capt4inNem0 issued server command: /rg create TownySpawn
+[18:29:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:29:44] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn build deny
+[18:29:54] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn mob-spawning deny
+[18:29:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:30:02] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn asd
+[18:30:19] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn lighter deny
+[18:30:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:30:32] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn lighter lightning deny
+[18:30:35] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn lighter lightning
+[18:30:43] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn lightning deny
+[18:30:56] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:31:08] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn pvp deny
+[18:31:16] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn mob-damage deny
+[18:31:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:32:01] [Server thread/INFO]: Capt4inNem0 issued server command: /rg flag TownySpawn greeting &6 BIENVENIDO &r a &3 Towny survival
+[18:32:08] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
+[18:32:26] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:32:30] [Server thread/INFO]: De-opped Capt4inNem0
+[18:33:33] [Server thread/INFO]: Opped Capt4inNem0
+[18:33:52] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[18:34:17] [Server thread/INFO]: Capt4inNem0 issued server command: //set 1
+[18:34:40] [Server thread/INFO]: Capt4inNem0 lost connection: Disconnected
+[18:34:40] [Server thread/INFO]: Capt4inNem0 left the game.
+[18:34:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22490ms behind, skipping 449 tick(s)
+[18:34:40] [Server thread/WARN]: [Essentials] Task #662 for Essentials vTeamCity generated an exception
 java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
@@ -245,43 +353,122 @@ java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
-[15:50:59] [Server thread/INFO]: Stopping the server
-[15:50:59] [Server thread/INFO]: Stopping server
-[15:50:59] [Server thread/INFO]: [TownyNameUpdater] Disabling TownyNameUpdater v2.5
-[15:50:59] [Server thread/INFO]: [TownyChat] Disabling TownyChat v0.54
-[15:50:59] [Server thread/INFO]: [Jobs] Disabling Jobs v2.51.1
-[15:50:59] [Jobs-DatabaseSaveTask/INFO]: [0;33;22mDatabase save task shutdown![m
-[15:50:59] [Jobs-BufferedPaymentThread/INFO]: [0;33;22mBuffered payment thread shutdown.[m
-[15:50:59] [Server thread/INFO]: [0;32;22mPlugin has been disabled succesfully.[m
-[15:50:59] [Server thread/INFO]: [Towny] Disabling Towny v0.93.1.0a (for MC 1.8.9)
-[15:50:59] [Server thread/INFO]: ==============================================================
-[15:50:59] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Disabled
-[15:50:59] [Server thread/INFO]: =============================================================
-[15:50:59] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.9
-[15:50:59] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
-[15:50:59] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
-[15:50:59] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[15:50:59] [Server thread/INFO]: [Fe] Disabling Fe v0.9
-[15:50:59] [Server thread/INFO]: [Fe] Vault support disabled.
-[15:50:59] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
-[15:50:59] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
-[15:50:59] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.0
-[15:50:59] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.3
-[15:50:59] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[15:50:59] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
-[15:50:59] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[15:50:59] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[15:50:59] [Server thread/INFO]: [LocationTeleport] Disabling LocationTeleport v3.0.2
-[15:50:59] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[0;35;22m is disabled[m
-[15:50:59] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
-[15:50:59] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
-[15:50:59] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[15:50:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
-[15:50:59] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
-[15:50:59] [Server thread/INFO]: [MultiWorld] Disabled.
-[15:50:59] [Server thread/INFO]: Saving players
-[15:50:59] [Server thread/INFO]: Saving worlds
-[15:50:59] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:51:00] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[15:51:00] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[15:51:00] [Server thread/INFO]: Saving chunks for level 'lobby'/Overworld
+[18:34:44] [Server thread/INFO]: Capt4inNem0[/192.168.0.20:55662] logged in with entity id 304466 at ([world] -659.4299019761172, 158.20716477092193, -418.70876689300394)
+[18:34:44] [Server thread/WARN]: [Essentials] Task #668 for Essentials vTeamCity generated an exception
+java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:349) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:668) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18:34:51] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
+[18:34:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5827ms behind, skipping 116 tick(s)
+[18:35:08] [Server thread/INFO]: Capt4inNem0 issued server command: //set 0
+[18:35:22] [Server thread/INFO]: Capt4inNem0 issued server command: /toggledownfall
+[18:35:22] [Server thread/INFO]: [Capt4inNem0: Toggled downfall]
+[18:35:37] [Server thread/INFO]: Capt4inNem0 issued server command: //sphere
+[18:35:46] [Server thread/INFO]: Capt4inNem0 issued server command: //sphere 1 20
+[18:36:09] [Server thread/INFO]: Capt4inNem0 lost connection: Internal Exception: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+[18:36:09] [Server thread/INFO]: Capt4inNem0 left the game.
+[18:36:09] [Server thread/INFO]: Capt4inNem0[/192.168.0.20:55667] logged in with entity id 315356 at ([world] -461.9805187375233, 177.19518680864982, -496.34949409009766)
+[18:36:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23728ms behind, skipping 474 tick(s)
+[18:36:09] [Server thread/WARN]: [Essentials] Task #675 for Essentials vTeamCity generated an exception
+java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:349) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:668) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18:36:09] [Server thread/WARN]: [Essentials] Task #681 for Essentials vTeamCity generated an exception
+java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:349) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:668) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18:36:34] [Server thread/INFO]: Capt4inNem0 issued server command: //undo
+[18:36:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6179ms behind, skipping 123 tick(s)
+[18:36:58] [Server thread/INFO]: Capt4inNem0 issued server command: /lobby
+[18:37:10] [Server thread/INFO]: Capt4inNem0 issued server command: /warp lobby
+[18:37:48] [Server thread/INFO]: Capt4inNem0 issued server command: /town
+[18:37:56] [Server thread/INFO]: Capt4inNem0 issued server command: /spawn
+[18:39:22] [Server thread/INFO]: Capt4inNem0 issued server command: /summon fireball
+[18:39:22] [Server thread/WARN]: Skipping Entity with id fireball
+[18:39:26] [Server thread/INFO]: Capt4inNem0 issued server command: /summon Fireball
+[18:39:26] [Server thread/INFO]: [Capt4inNem0: Object successfully summoned]
+[18:39:31] [Server thread/INFO]: Capt4inNem0 issued server command: /summon Fireball
+[18:39:31] [Server thread/INFO]: [Capt4inNem0: Object successfully summoned]
+[18:39:38] [Server thread/INFO]: Capt4inNem0 issued server command: /summon Fireball
+[18:39:38] [Server thread/INFO]: [Capt4inNem0: Object successfully summoned]
+[18:39:43] [Server thread/INFO]: Capt4inNem0 issued server command: /summon Fireball
+[18:39:43] [Server thread/INFO]: [Capt4inNem0: Object successfully summoned]
+[18:40:08] [Server thread/INFO]: Capt4inNem0 issued server command: /summon Giant
+[18:40:08] [Server thread/INFO]: [Capt4inNem0: Object successfully summoned]
+[18:40:45] [Server thread/INFO]: Capt4inNem0 issued server command: /enchant Sharpness
+[18:40:53] [Server thread/INFO]: Capt4inNem0 issued server command: /enchant Sharpness 5
+[18:42:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3311ms behind, skipping 66 tick(s)
+[18:42:10] [Server thread/INFO]: Capt4inNem0 lost connection: Disconnected
+[18:42:10] [Server thread/INFO]: Capt4inNem0 left the game.
+[18:42:10] [Server thread/WARN]: [Essentials] Task #718 for Essentials vTeamCity generated an exception
+java.lang.NoClassDefFoundError: com/earth2me/essentials/xmpp/XMPPManager
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:349) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:668) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:284) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:609) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:517) [craftbukkit-1.8-R0.1-SNAPSHOT-latest.jar:git-Bukkit-33d5de3]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18:42:15] [Server thread/INFO]: Stopping the server
+[18:42:15] [Server thread/INFO]: Stopping server
+[18:42:15] [Server thread/INFO]: [TownyNameUpdater] Disabling TownyNameUpdater v2.5
+[18:42:15] [Server thread/INFO]: [TownyChat] Disabling TownyChat v0.54
+[18:42:15] [Server thread/INFO]: [Jobs] Disabling Jobs v2.51.1
+[18:42:15] [Jobs-DatabaseSaveTask/INFO]: [0;33;22mDatabase save task shutdown![m
+[18:42:15] [Server thread/INFO]: [0;32;22mPlugin has been disabled succesfully.[m
+[18:42:15] [Jobs-BufferedPaymentThread/INFO]: [0;33;22mBuffered payment thread shutdown.[m
+[18:42:15] [Server thread/INFO]: [Towny] Disabling Towny v0.93.1.0a (for MC 1.8.9)
+[18:42:15] [Server thread/INFO]: ==============================================================
+[18:42:15] [Server thread/INFO]: [Towny] Version: 0.93.1.0a (for MC 1.8.9) - Mod Disabled
+[18:42:15] [Server thread/INFO]: =============================================================
+[18:42:15] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.9
+[18:42:15] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
+[18:42:15] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[18:42:15] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[18:42:15] [Server thread/INFO]: [Fe] Disabling Fe v0.9
+[18:42:15] [Server thread/INFO]: [Fe] Vault support disabled.
+[18:42:15] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[18:42:15] [Server thread/INFO]: [Vault] Disabling Vault v1.5.0-b28
+[18:42:15] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.0
+[18:42:15] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.3
+[18:42:15] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[18:42:15] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[18:42:15] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[18:42:15] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[18:42:15] [Server thread/INFO]: [LocationTeleport] Disabling LocationTeleport v3.0.2
+[18:42:15] [Server thread/INFO]: [0;31;1mLocationTeleport v3.0.2[0;35;22m is disabled[m
+[18:42:15] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[18:42:15] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[18:42:15] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[18:42:15] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[18:42:15] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
+[18:42:15] [Server thread/INFO]: [MultiWorld] Disabled.
+[18:42:15] [Server thread/INFO]: Saving players
+[18:42:15] [Server thread/INFO]: Saving worlds
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'lobby'/Overworld

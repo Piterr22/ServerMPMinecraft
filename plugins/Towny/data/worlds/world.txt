@@ -1,4 +1,4 @@
-towns=Primus
+towns=
 
 pvp=true
 forcepvp=false

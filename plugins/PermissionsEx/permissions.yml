@@ -3,7 +3,33 @@ groups:
     options:
       default: true
     permissions:
+    - towny.wild.*
+    - towny.wild.switch
+    - towny.wild.item_use
+    - towny.wild.destroy
+    - towny.wild.build
+    - essentials.back
+    - essentials.delhome
+    - essentials.home
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.warp.list
+    - essentials.pay
+    - essentials.balancetop
+    - essentials.balance
+    - essentials.mail.send
+    - essentials.mail
+    - essentials.msg
+    - essentials.motd
+    - essentials.help.towny
+    - essentials.helpop
+    - essentials.help.jobs
+    - essentials.afk.auto
+    - essentials.afk
+    - essentials.warps.*
+    - essentials.warp
     - ChestShop.shop.*
+    - essentials.spawn
     - essentials.build
     - modifyworld.*
   God:
@@ -27,8 +53,7 @@ users:
     permissions:
     - God
   5515458b-9014-3145-8ca2-ec2f50a647d1:
-    group:
-    - God
+    group: []
     options:
       name: Capt4inNem0
   ppuflyx:

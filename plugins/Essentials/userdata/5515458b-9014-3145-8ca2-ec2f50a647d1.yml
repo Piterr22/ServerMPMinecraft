@@ -1,21 +1,21 @@
 lastAccountName: Capt4inNem0
 timestamps:
-  login: 1577213273338
-  lastteleport: 1577211589341
-  logout: 1577213453499
+  login: 1577223370000
+  lastteleport: 1577223476568
+  logout: 1577223728922
 ipAddress: 192.168.0.20
 afk: false
 lastlocation:
   world: lobby
-  x: -144.7011812523373
-  y: 101.0
-  z: -167.38281558669428
-  yaw: -14.028839
-  pitch: 37.350033
+  x: -192.24181076101766
+  y: 116.2106820080165
+  z: -221.01734781392412
+  yaw: -134.62729
+  pitch: 10.20001
 logoutlocation:
   world: world
-  x: -741.0158876795734
-  y: 7.373488251136754
-  z: -607.2589678854886
-  yaw: -151.1099
-  pitch: 14.999956
+  x: -571.119703843012
+  y: 178.0
+  z: -515.4846997911285
+  yaw: 181.59033
+  pitch: 48.600105

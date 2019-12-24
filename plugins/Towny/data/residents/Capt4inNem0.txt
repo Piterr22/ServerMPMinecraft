@@ -1,4 +1,4 @@
-lastOnline=1577213455105
+lastOnline=1577223730478
 registered=1576925474049
 isNPC=false
 isJailed=false
@@ -6,9 +6,6 @@ JailSpawn=0
 JailTown=
 title=
 surname=
-town=Primus
-town-ranks=
-nation-ranks=
 friends=
 
 protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse
